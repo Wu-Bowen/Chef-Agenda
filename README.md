@@ -1,6 +1,4 @@
-# Chef-s-Agenda
-Project Proposal for Agile Software Dev
-
+# Chef's-Agenda
 
 Cooking should not be hard. In fact if you’re following a recipe step-by-step, it is hard to mess up. However, the true difficulty when cooking is the organization of all the ingredients, time management, etc. It is the preparation of a meal that scares most people when cooking. Whether this is in terms of the ingredients one must buy at the grocery store or even picking a new recipe to learn, many individuals face cooking failures early on and often give up or go back to the same simple staples like scrambled eggs. The purpose of the Chef’s Agenda is to be an in depth cooking calendar that will give people new recipes and prepare them for a successful meal. It’ll do this by suggesting meals during the week (browsed through online recipes) and organizing a grocery list with a list of ingredients. When cooking, you can pull up the recipe and set timers to make sure everything is being correctly managed.
 	
